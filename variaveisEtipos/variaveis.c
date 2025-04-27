@@ -6,6 +6,4 @@ int main() {
     float altura;
     char letra;
     char nome[20];
-
-
 }
